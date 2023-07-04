@@ -8,10 +8,12 @@ M5 - 01 - Python Notebook
     - funciones            
     - listas            
     - diccionarios
+
 M5 - 02 - Condicionales            
 - operadores lógicos            
 - operadores matemáticos            
 - if/elif/else
+
 M5 - 03 - Bucles            
 - while            
 - for            
