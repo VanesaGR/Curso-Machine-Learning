@@ -16,5 +16,11 @@ M5 - 02 - Condicionales
 
 M5 - 03 - Bucles            
 - while            
-- for            
-- bucles anidados            
+- for           
+- bucles anidados
+
+### Día 2 - Martes
+
+M5 - 04 - Pandas
+
+M5 - 05 - SpaceX
