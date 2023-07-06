@@ -32,7 +32,15 @@ M5 - 05 - SpaceX
 
 ### Día 3 - Miércoles
 M5 - 06 - Introducción al Machine Learning 
+- conjuntos train y test
+- dividir en dos y en cuatro los conjuntos train y test
 
 M5 - 07 - Folium 
+- Generación de mapas con Folium
+- Diferentes tipos de mapas
+- Manejo de los distintos tipos de mapas
 
-M5 - 08 - Predecir el valor de Bitcoin 
+M5 - 08 - Predecir el valor de Bitcoin
+- Filtrado de datos
+- Manejo de datos
+- Generación de gráficas
