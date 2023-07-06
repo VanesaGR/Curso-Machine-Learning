@@ -29,3 +29,10 @@ M5 - 04 - Pandas
 
 M5 - 05 - SpaceX
 - Recogida de datos
+
+### Día 3 - Miércoles
+M5 - 06 - Introducción al Machine Learning 
+
+M5 - 07 - Folium 
+
+M5 - 08 - Predecir el valor de Bitcoin 
