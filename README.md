@@ -44,3 +44,10 @@ M5 - 08 - Predecir el valor de Bitcoin
 - Filtrado de datos
 - Manejo de datos
 - Generación de gráficas
+
+### Día 4 - Jueves
+M5 - 09 - SpaceX
+- Predicciones
+
+M5 - 10 - SpaceX
+- Interactive Visual Analytics con Folium
