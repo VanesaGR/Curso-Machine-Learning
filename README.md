@@ -51,3 +51,9 @@ M5 - 09 - SpaceX
 
 M5 - 10 - SpaceX
 - Interactive Visual Analytics con Folium
+
+### Día 5 - Viernes
+M5 - 11 - SpaceX
+- Gráficas
+
+M5 - 12 - Repaso de conceptos teóricos
