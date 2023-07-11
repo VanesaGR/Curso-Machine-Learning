@@ -57,3 +57,8 @@ M5 - 11 - SpaceX
 - Gráficas
 
 M5 - 12 - Repaso de conceptos teóricos
+
+### Día 6 - Lunes
+M6 - 13 - Python
+- Funciones
+- Clases
