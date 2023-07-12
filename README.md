@@ -62,3 +62,7 @@ M5 - 12 - Repaso de conceptos teóricos
 M6 - 13 - Python
 - Funciones
 - Clases
+
+### Día 7 - Martes
+M6 - 14 - Python
+- Programación funcional
