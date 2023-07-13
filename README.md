@@ -66,3 +66,10 @@ M6 - 13 - Python
 ### Día 7 - Martes
 M6 - 14 - Python
 - Programación funcional
+
+### Día 8 - Miércoles
+M6 - 15 - Spark
+- Spark Session teoría
+- Primer RDD teoría
+- Transformaciones y acciones sobre RDD
+##
